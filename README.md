@@ -1,3 +1,4 @@
+ 
 # HR Analytics Dashboard
 
 This project is a dynamic HR analytics dashboard that analyzes employee attrition and performance.
@@ -19,3 +20,5 @@ This project is a dynamic HR analytics dashboard that analyzes employee attritio
 
 2. Run dashboard:
    streamlit run hr_dashboard.py
+
+# hr-analytics-dashboard
